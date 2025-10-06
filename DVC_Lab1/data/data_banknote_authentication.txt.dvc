@@ -1,0 +1,6 @@
+outs:
+- md5: 3f64e2b50525a2f36dcd947eaf7bac8a
+  size: 46400
+  isexec: true
+  hash: md5
+  path: data_banknote_authentication.txt
